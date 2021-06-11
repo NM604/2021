@@ -1,0 +1,8 @@
+Requirements for codes: (upto 11-June-2021)
+psycopg2
+BeautifulSoup4
+requests
+Selenium
+Pandas
+geckodriver (0.29.1 or above)
+Firefox
